@@ -1,0 +1,8 @@
+coco/*
+openpose/*
+*.zip
+yolov7/*
+yolov7.pt
+videos/*
+.vscode/settings.json
+.DS_Store
